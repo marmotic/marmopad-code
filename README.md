@@ -1,4 +1,4 @@
-# MarmoCode
+# MarmoPad Code
 
 ## Resources
 
@@ -24,6 +24,7 @@
 
 - https://componentsearchengine.com/part-preview/MSK12C02/Shou%20Han?type=symbol
 - https://github.com/sparkfun/SparkFun-Eagle-Libraries
+- https://github.com/clueboard/eagle_libs
 
 ### Hardware
 
