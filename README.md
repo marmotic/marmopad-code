@@ -2,11 +2,8 @@
 
 ## Resources
 
-- http://www.keyboard-layout-editor.com/#/gists/54a80f599e9ca6d2c310c14009366584
-- https://splitkb.com/collections/keyboard-parts/products/nice-nano
-- https://splitkb.com/products/elite-c-low-profile-rev4-microcontroller?pr_prod_strat=copurchase&pr_rec_id=d1114b5f7&pr_rec_pid=4617762799693&pr_ref_pid=4161982758989&pr_seq=uniform
+- https://nicekeyboards.com/docs/nice-nano/
 - https://matt3o.com/hand-wiring-a-custom-keyboard/
-- https://github.com/sparkfun/SparkFun-Eagle-Libraries
 - https://zmk.dev/
 
 ### Layout
