@@ -29,3 +29,4 @@
 - https://splitkb.com/products/mill-max-low-profile-sockets?variant=31945995845709
 - https://splitkb.com/products/wireless-controller-expansion-bundle?variant=42344261288195
 - https://splitkb.com/products/kailh-hotswap-sockets?variant=39472161423437
+- https://www.amazon.de/-/en/gp/product/B092J98RJD/ref=ox_sc_act_title_1?smid=A91QXEJF0VMKO&psc=1
